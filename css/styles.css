@@ -4,11 +4,11 @@
 de flex fueron comentadas - Dario 4/13/24*/
 
 * {
-  font-family: "Titillium Web", sans-serif;
+  font-family: /*"Titillium Web", */sans-serif;
 }
 
 :root {
-  --darkest: #222831;
+  --darkest: #ce6d1d;
   --dark: #31363f;
   --light-dark: #404651;
   --light: #ffffffe3;

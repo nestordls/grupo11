@@ -1,13 +1,13 @@
 footer {
   bottom: 0;
-  background: #282828;
+  background: #d62020;
 }
 
 footer {
   grid-area: footer;
   width: 100%;
   height: auto;
-  background: #282828;
+  background: #d10d0d;
   padding-bottom: 20px;
 }
 
@@ -30,7 +30,7 @@ footer {
 }
 
 .rights-reserved p {
-  text-align: right;
+  text-align: left;
   margin: 0;
 }
 
